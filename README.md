@@ -4,5 +4,5 @@
 adasdasd
 asdadas
 
-[loremipsum] (http://google.com)
+[lorem ipsum](http://google.com)
 
